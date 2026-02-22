@@ -1,4 +1,3 @@
-
 import bisect
 
 class Solution:
